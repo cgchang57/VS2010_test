@@ -11,6 +11,7 @@
         Testing the usage of GIT and VS2010
         <br />another change here
         <br /> one more
+        <br /> yet another one
     </p>
     <p>
         You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
