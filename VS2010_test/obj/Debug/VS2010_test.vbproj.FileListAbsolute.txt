@@ -1,0 +1,8 @@
+c:\users\cesar.chang\documents\visual studio 2010\Projects\VS2010_test\VS2010_test\bin\VS2010_test.dll
+c:\users\cesar.chang\documents\visual studio 2010\Projects\VS2010_test\VS2010_test\bin\VS2010_test.pdb
+c:\users\cesar.chang\documents\visual studio 2010\Projects\VS2010_test\VS2010_test\bin\VS2010_test.xml
+c:\users\cesar.chang\documents\visual studio 2010\Projects\VS2010_test\VS2010_test\obj\Debug\VS2010_test.Resources.resources
+c:\users\cesar.chang\documents\visual studio 2010\Projects\VS2010_test\VS2010_test\obj\Debug\VS2010_test.vbproj.GenerateResource.Cache
+c:\users\cesar.chang\documents\visual studio 2010\Projects\VS2010_test\VS2010_test\obj\Debug\VS2010_test.dll
+c:\users\cesar.chang\documents\visual studio 2010\Projects\VS2010_test\VS2010_test\obj\Debug\VS2010_test.xml
+c:\users\cesar.chang\documents\visual studio 2010\Projects\VS2010_test\VS2010_test\obj\Debug\VS2010_test.pdb
